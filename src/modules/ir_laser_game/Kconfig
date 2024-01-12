@@ -1,0 +1,5 @@
+menuconfig MODULES_IR_LASER_GAME
+	bool "ir_laser_game"
+	default n
+	---help---
+		Launch laser game process
