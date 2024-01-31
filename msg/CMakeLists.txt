@@ -161,6 +161,7 @@ set(msg_files
 	PowerMonitor.msg
 	PpsCapture.msg
 	PwmInput.msg
+	InfraredControl.msg
 	Px4ioStatus.msg
 	QshellReq.msg
 	QshellRetval.msg
